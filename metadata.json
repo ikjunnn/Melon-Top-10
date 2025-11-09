@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TuneChart Player",
+  "description": "An application that displays the real-time TOP 10 music chart, inspired by Melon, and allows users to instantly stream the selected music via an embedded YouTube player. It provides a seamless playlist experience within the browser.",
+  "requestFramePermissions": []
+}
